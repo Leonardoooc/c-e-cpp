@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631396483 source:c:\users\pedro\onedrive\Área de trabalho\tudo\programação 2021\segundo periodo\hanoi.c
+	<C:\Users\Pedro\OneDrive\Área de Trabalho\Tudo\Programação 2021\Segundo Periodo\Trabalho.h>
+	<stdio.h>
+
+1631399225 source:c:\users\leona\downloads\hanoi.c
+	"Trabalho.h"
+	<stdio.h>
+
+1631399225 c:\users\leona\downloads\trabalho.h
+	<stdio.h>
+

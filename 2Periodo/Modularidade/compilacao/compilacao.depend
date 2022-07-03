@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630537865 source:c:\users\leona\documents\codeblocks\2°p\modularidade\exemplo-1.cpp
+	<stdio.h>
+	"fatorial.h"
+
+1630536522 c:\users\leona\documents\codeblocks\2°p\modularidade\fatorial.h
+	<stdio.h>
+
